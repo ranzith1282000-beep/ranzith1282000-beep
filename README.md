@@ -11,6 +11,10 @@ I build data pipelines and reports that people can trust: cleaning messy data, c
 | [Clickstream & Transactions ETL on GCP](https://github.com/ranzith1282000-beep/storypoints-week1) | Cloud ETL: GCS, a live currency API, data quality checks, date-partitioned output | Python, pandas, Google Cloud Storage, pytest |
 | [Telco Customer Churn](https://github.com/ranzith1282000-beep/telco-customer-churn) | Cleaning and analysing 7,043 customer records; found month-to-month contracts are the strongest churn driver | Python, pandas, pytest, GitHub Actions |
 | [Seattle Weather ML](https://github.com/ranzith1282000-beep/seattle-weather-ML) | Showed a tuned 81% XGBoost model was matched by a two-line rule, then built a leak-free next-day rain forecast | Python, scikit-learn, XGBoost, pytest |
+| [Bank Marketing Prediction](https://github.com/ranzith1282000-beep/bank-marketing-prediction) | Ranked 45,211 customers so calling the top 20% reaches 62% of likely subscribers; found and fixed a swapped-metrics bug | Python, scikit-learn |
+| [Breast Cancer Classification](https://github.com/ranzith1282000-beep/breast-cancer-classification) | Cross-validated models judged on missed malignant cases: 9 missed vs 22 for my first model | Python, scikit-learn |
+| [Wine Quality Classification](https://github.com/ranzith1282000-beep/wine-quality-classification) | Found 64 duplicate wines leaking from training into test, then re-evaluated fairly | Python, scikit-learn |
+| [Tesla Stock Forecasting](https://github.com/ranzith1282000-beep/tesla-stock-forecasting) | Showed why tree models failed on a rising stock ($331/day error) and tested a returns model against a naive baseline | Python, scikit-learn, XGBoost |
 | [Top 100 US Companies Scraper](https://github.com/ranzith1282000-beep/us-companies-web-scraper) | Web scraping and cleaning; found and fixed a bug that reported 13 revenue falls as growth | Python, BeautifulSoup, pandas, Matplotlib |
 | [Python Mini Projects](https://github.com/ranzith1282000-beep/python-mini-projects) | Four early programs, revisited with bug fixes and 28 tests | Python, pytest |
 
