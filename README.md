@@ -10,6 +10,7 @@ I build data pipelines and reports that people can trust: cleaning messy data, c
 |---|---|---|
 | [Clickstream & Transactions ETL on GCP](https://github.com/ranzith1282000-beep/storypoints-week1) | Cloud ETL: GCS, a live currency API, data quality checks, date-partitioned output | Python, pandas, Google Cloud Storage, pytest |
 | [Telco Customer Churn](https://github.com/ranzith1282000-beep/telco-customer-churn) | Cleaning and analysing 7,043 customer records; found month-to-month contracts are the strongest churn driver | Python, pandas, pytest, GitHub Actions |
+| [Seattle Weather ML](https://github.com/ranzith1282000-beep/seattle-weather-ML) | Showed a tuned 81% XGBoost model was matched by a two-line rule, then built a leak-free next-day rain forecast | Python, scikit-learn, XGBoost, pytest |
 | [Top 100 US Companies Scraper](https://github.com/ranzith1282000-beep/us-companies-web-scraper) | Web scraping and cleaning; found and fixed a bug that reported 13 revenue falls as growth | Python, BeautifulSoup, pandas, Matplotlib |
 | [Python Mini Projects](https://github.com/ranzith1282000-beep/python-mini-projects) | Four early programs, revisited with bug fixes and 28 tests | Python, pytest |
 
@@ -22,7 +23,7 @@ I build data pipelines and reports that people can trust: cleaning messy data, c
 ### Skills
 
 **Languages:** Python, SQL, R  
-**Data & cloud:** pandas, PySpark, Databricks, Microsoft Fabric, Azure Data Factory, Google Cloud, BigQuery  
+**Data & ML:** pandas, scikit-learn, XGBoost, PySpark, Databricks, Microsoft Fabric, Azure Data Factory, Google Cloud, BigQuery  
 **BI & reporting:** Power BI, advanced Excel  
 **Ways of working:** Git, testing, CI with GitHub Actions
 
